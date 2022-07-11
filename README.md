@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradeep ;
 - 👀 I’m interested in GPU programming, Machine Learning, Deep learning
-- 🌱 I’m currently learning GPU programmind in cuda, Parallel 💻Algorithms, 🎸Ukulele;
+- 🌱 I’m currently learning GPU programming in cuda, Parallel 💻Algorithms, 🎸Ukulele;
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
